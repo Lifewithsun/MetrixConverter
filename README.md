@@ -14,6 +14,10 @@ dotnet ef migrations add InitialModel --context matrixdatacontext -p ../Infrastr
   ```
 6. Now run the Project.
 
+To check API working provide in input to Swagger API call.
 
+Eg. 
+1. convertFrom="Kilometers" ,convertTo="Miles" and inputValue=10
+2. convertFrom="Celsius" ,convertTo="Fahrenheit" and inputValue=39
 
-
+There are other conversion also been added please refer to database table
