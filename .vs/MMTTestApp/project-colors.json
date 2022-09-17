@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71368733-80a4-4869-b215-3a7001878577": {
+      "ProjectGuid": "71368733-80a4-4869-b215-3a7001878577",
+      "DisplayName": "BlazorAdmin",
+      "ColorIndex": 0
+    },
+    "7fed7440-2311-4d1e-958b-3e887c585cd2": {
+      "ProjectGuid": "7fed7440-2311-4d1e-958b-3e887c585cd2",
+      "DisplayName": "ApplicationCore",
+      "ColorIndex": 1
+    },
+    "7c461394-abdc-43cd-a798-71249c58ba67": {
+      "ProjectGuid": "7c461394-abdc-43cd-a798-71249c58ba67",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "b5e4f33c-4667-4a55-af6a-740f84c4cf3a": {
+      "ProjectGuid": "b5e4f33c-4667-4a55-af6a-740f84c4cf3a",
+      "DisplayName": "PublicApi",
+      "ColorIndex": 3
+    },
+    "7efb5482-f942-4c3d-94b0-9b70596e6d0a": {
+      "ProjectGuid": "7efb5482-f942-4c3d-94b0-9b70596e6d0a",
+      "DisplayName": "FunctionalTests",
+      "ColorIndex": 4
+    },
+    "ef6877e6-59cb-43a7-8c2c-e70dd70cc5b6": {
+      "ProjectGuid": "ef6877e6-59cb-43a7-8c2c-e70dd70cc5b6",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
